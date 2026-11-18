@@ -1,9 +1,5 @@
-<div style="text-align: center; font-size: 56px;">
-  Добро пожаловать! Welcome!
-</div>
-
-
-# ![DENCHIK TEAM](https://i.ibb.co/BT8cYJR/DTlogo3.png)
+<h1 align="center">Добро пожаловать! Welcome!</h1>
+![DENCHIK TEAM](https://i.ibb.co/BT8cYJR/DTlogo3.png)
 
 !!! note DENCHIK TEAM
     Официальная [Pastebin](https://wikipedia.org/wiki/Pastebin)-страница для публикации обновлений связанных с видео, а также ссылок на скачивание ресурсов
